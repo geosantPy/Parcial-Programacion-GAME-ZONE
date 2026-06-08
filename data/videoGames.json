@@ -1,0 +1,22 @@
+[
+  {
+    "condition": "Used",
+    "distributor": "mojang",
+    "type": "physical",
+    "title": "minecraft",
+    "price": 92000.0,
+    "platform": "ps4",
+    "stock": 1,
+    "genre": "indie"
+  },
+  {
+    "sizeGB": 24.0,
+    "downloadPlatform": "steam",
+    "type": "digital",
+    "title": "god of war",
+    "price": 10000.0,
+    "platform": "pc",
+    "stock": 0,
+    "genre": "historia"
+  }
+]
